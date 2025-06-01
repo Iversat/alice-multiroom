@@ -47,9 +47,9 @@ python multiroom_scanner.py
 Начинаем сканирование на 10 секунд...
 Ищем типы сервисов: _yandexio._tcp.local., _yandexstation._tcp.local., _googlecast._tcp.local., _spotify-connect._tcp.local.
 ------------------------------
-Устройство: Yandex-Station-Mini-E4A5 (192.168.1.15)
+Устройство: yandexmicro-LP00XXXXXXXXX (192.168.1.57)
 ------------------------------
-Устройство: Google-Home-Mini-A1B2 (192.168.1.12)
+Устройство: yandex-hub-SXXXXXXXXXXXXX (192.168.1.11)
 ------------------------------
 
 ==============================
@@ -59,17 +59,17 @@ python multiroom_scanner.py
 
 Список обнаруженных устройств:
 
-  1. Устройство: Yandex-Station-Mini-E4A5
-     Сервисное имя: Yandex Station Mini E4A5._yandexio._tcp.local.
+  1. Устройство: yandexmicro-LP00XXXXXXXXX
+     Сервисное имя: YandexIOReceiver-LP00XXXXXXXXX._yandexio._tcp.local.
      Тип: _yandexio._tcp.local.
-     IP: ['192.168.1.15']
-     Порт: 8030
-     Свойства: {'fn': 'Yandex Station Mini E4A5', 'md': 'yandexstation_2', 'rm': '', 've': '1.0.0.2', 'id': '012345abcdef6789', 'ca': '4100', 'st': '1', 'bs': 'AA:BB:CC:DD:EE:FF', 'rs': ''}
+     IP: ['192.168.1.57']
+     Порт: 1961
+     Свойства: {'deviceId': 'LP00XXXXXXXXX', 'platform': 'yandexmicro', 'cluster': 'yes'}
 
-  2. Устройство: Google-Home-Mini-A1B2
-     Сервисное имя: Google Home Mini A1B2._googlecast._tcp.local.
-     Тип: _googlecast._tcp.local.
-     IP: ['192.168.1.12']
-     Порт: 8009
-     Свойства: {'id': 'aabbccddeeff001122334455', 've': '05', 'md': 'Google Home Mini', 'fn': 'Living Room Speaker', 'ca': '4101', 'st': '0', 'ic': '/setup/icon.png', 'rm': '', 'rs': ''}
+  2. Устройство: yandex-hub-SXXXXXXXXXXXXX
+     Сервисное имя: YandexIOReceiver-SXXXXXXXXXXXXX._yandexio._tcp.local.
+     Тип: _yandexio._tcp.local.
+     IP: ['192.168.1.11']
+     Порт: 1961
+     Свойства: {'deviceId': 'SXXXXXXXXXXXXX', 'platform': 'saturn', 'cluster': 'yes'}
  ```
