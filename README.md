@@ -22,7 +22,6 @@
     git clone [https://github.com/Iversat/alice-multiroom.git](https://github.com/Iversat/alice-multiroom.git)
     cd alice-multiroom
     ```
-    *(Замените `https://github.com/ваш_username/ваш_репозиторий.git` на актуальный URL вашего репозитория)*
 
 2.  Установите необходимые зависимости:
     ```bash
