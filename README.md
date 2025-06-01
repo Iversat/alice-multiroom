@@ -39,9 +39,11 @@
 
 ```bash
 python multiroom_scanner.py
+ ```
 
 ## Пример вывода
- 
+
+ ```bash
 Начинаем сканирование на 10 секунд...
 Ищем типы сервисов: _yandexio._tcp.local., _yandexstation._tcp.local., _googlecast._tcp.local., _spotify-connect._tcp.local.
 ------------------------------
@@ -70,3 +72,4 @@ python multiroom_scanner.py
      IP: ['192.168.1.12']
      Порт: 8009
      Свойства: {'id': 'aabbccddeeff001122334455', 've': '05', 'md': 'Google Home Mini', 'fn': 'Living Room Speaker', 'ca': '4101', 'st': '0', 'ic': '/setup/icon.png', 'rm': '', 'rs': ''}
+ ```
