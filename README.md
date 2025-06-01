@@ -19,8 +19,8 @@
 
 1.  Клонируйте репозиторий (или скачайте скрипт `multiroom_scanner.py`):
     ```bash
-    git clone [https://github.com/ваш_username/ваш_репозиторий.git](https://github.com/ваш_username/ваш_репозиторий.git)
-    cd ваш_репозиторий
+    git clone [https://github.com/Iversat/alice-multiroom.git](https://github.com/Iversat/alice-multiroom.git)
+    cd alice-multiroom
     ```
     *(Замените `https://github.com/ваш_username/ваш_репозиторий.git` на актуальный URL вашего репозитория)*
 
