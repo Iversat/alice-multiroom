@@ -19,7 +19,7 @@
 
 1.  Клонируйте репозиторий (или скачайте скрипт `multiroom_scanner.py`):
     ```bash
-    git clone [https://github.com/Iversat/alice-multiroom.git](https://github.com/Iversat/alice-multiroom.git)
+    git clone https://github.com/Iversat/alice-multiroom.git
     cd alice-multiroom
     ```
 
