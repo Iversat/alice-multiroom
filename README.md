@@ -27,11 +27,7 @@
     ```bash
     pip install zeroconf
     ```
-    Если вы используете `requirements.txt`, можно также:
-    ```bash
-    pip install -r requirements.txt
-    ```
-    (В этом случае создайте файл `requirements.txt` с содержимым `zeroconf`)
+
 
 ## Использование
 
